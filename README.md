@@ -1,2 +1,4 @@
 # Ribbon
-Delicious clone.
+Delicious clone. Still WIP.
+
+Planning stage.
